@@ -3,7 +3,7 @@ void main(){
   String b = 'Rizwan';
   print('My name is $c');
   print('My father name is ${c.length}');
-  // var
+  // var you can change valuve if you not first initalize(var a= 10)
   var a;
   a=10;
   print(a);
