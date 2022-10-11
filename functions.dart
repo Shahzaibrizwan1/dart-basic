@@ -1,4 +1,4 @@
-
+// Create a table
 void table(int num){
   int r = 1;
   for (int i =1 ; i<=10;i++)
@@ -11,6 +11,7 @@ void table(int num){
 void main(){
   table(2);
 }
+
 
 //function with parameter 
 
